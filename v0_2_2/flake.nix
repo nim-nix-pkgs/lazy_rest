@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-lazy_rest-v0_2_2.flake = false;
+  inputs.src-lazy_rest-v0_2_2.ref   = "refs/tags/v0.2.2";
   inputs.src-lazy_rest-v0_2_2.owner = "Araq";
-  inputs.src-lazy_rest-v0_2_2.ref   = "v0_2_2";
   inputs.src-lazy_rest-v0_2_2.repo  = "lazy_rest";
   inputs.src-lazy_rest-v0_2_2.type  = "github";
   
