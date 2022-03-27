@@ -11,6 +11,7 @@
   inputs.src-lazy_rest-master.ref   = "refs/heads/master";
   inputs.src-lazy_rest-master.owner = "Araq";
   inputs.src-lazy_rest-master.repo  = "lazy_rest";
+  inputs.src-lazy_rest-master.dir   = "";
   inputs.src-lazy_rest-master.type  = "github";
   
   inputs."nake".owner = "nim-nix-pkgs";

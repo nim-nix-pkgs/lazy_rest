@@ -11,6 +11,7 @@
   inputs.src-lazy_rest-v0_2_2.ref   = "refs/tags/v0.2.2";
   inputs.src-lazy_rest-v0_2_2.owner = "Araq";
   inputs.src-lazy_rest-v0_2_2.repo  = "lazy_rest";
+  inputs.src-lazy_rest-v0_2_2.dir   = "";
   inputs.src-lazy_rest-v0_2_2.type  = "github";
   
   inputs."nake".owner = "nim-nix-pkgs";
